@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+sklearn
+json
+pickle
+ipywidgets
+voila
+treeinterpreter
+waterfallcharts
+
