@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rexus28/BluebookForBulldozersApp/HEAD?urlpath=%2Fvoila%2Frender%2Fbfb_app.ipynb)
+
 ## Bluebook for Bulldozers Notebook App
 This Bluebook For Bulldozers app is based on the 
 [Kaggle competition](https://www.kaggle.com/c/bluebook-for-bulldozers/overview)
@@ -46,3 +48,4 @@ publisher={O'Reilly Media, Incorporated}
 Fast Iron. (2013, January). Blue Book for Bulldozers. Retrieved June 28, 2021
 from https://www.kaggle.com/c/bluebook-for-bulldozers/data.
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Rexus28/BluebookForBulldozersApp/HEAD?urlpath=%2Fvoila%2Frender%2Fbfb_app.ipynb)
